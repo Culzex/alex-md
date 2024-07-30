@@ -1,4 +1,4 @@
-<h1 align="center"> ✧ A17 ✧ </h1>
+<h1 align="center"> ✧ Alex md ✧ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+A17+MD+!;Explore+the+world+of+features!" />
@@ -9,10 +9,10 @@
     <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
 </p>
 
-<h1 align="center"> A17 BoT (Beta)</h1>
+<h1 align="center"> Alex BoT </h1>
 
 <p align="center"> 
-  Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, I'm "Alex," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
 
 <p align="center"> 
   <a href="https://github.com/Kai0071/A17/stargazers">
@@ -52,7 +52,7 @@
 <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
+  <a href="https://github.com/Culzex/alex-md/fork">
     <img src="https://img.shields.io/badge/FORK A17 MD-h?color=white&style=for-the-badge&logo=stackshare" />
   </a>
 </h2>
@@ -63,7 +63,7 @@
 <h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁 </h2>
 
 <h2 align="center">
-  <a href="https://replit.com/@Kai0071/A17-Multi-Session?v=1">
+  <a href="https://replit.com/Culzex/alex-md-Multi-Session?v=1">
     <img src="https://repl.it/badge/github/quiec/whatsasena" />
   </a>
 </h2>
@@ -73,18 +73,18 @@
 
 ## Usage
 
-1. You will get qr code when you run the above replit. After scanning qr code you will get `creds.json` file in your personal chat, upload it to the `A17-SESSION` folder in your project directory. And done! you can now deploy your bot from following methods :
+1. You will get qr code when you run the above replit. After scanning qr code you will get `creds.json` file in your personal chat, upload it to the `Alex-SESSION` folder in your project directory. And done! you can now deploy your bot from following methods :
 <h2 align="center"> ⚙️  Edit Config File  ⚙️ </h2>
 
 - Customize your configuration details in your repository, specifically in the [`config.js`](https://github.com/Kai0071/A17/blob/master/config.js) file.
 
 ```js
 
-global.Owner = ["916297175943"];
-global.OwnerNumber = ["916297175943"];
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
+global.Owner = ["2347080376875"];
+global.OwnerNumber = ["2347080376875"];
+global.ownertag = ["2347080376875"];
+global.OwnerName = "alex";
+global.BotName = "alex md";
 
 ```
 <br>
@@ -163,10 +163,10 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/Kai0071/A17
+git clone https://github.com/Culzex/alex-md
 ```
 ```
-cd A17
+cd alex-md
 ```
 ```
 npm i
@@ -240,7 +240,7 @@ Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Cor
 <h2 align="center"> ✧ Join My WhatsApp Group For Support ✧ </h2>
 
 <h2 align="center">
-  <a href="https://chat.whatsapp.com/GhRGdwfaMVDCEoeAdzILfl">
+  <a href="https://chat.whatsapp.com/">
     <img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </h>
@@ -253,4 +253,4 @@ Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Cor
 - Use the bot at your own risk, keeping this warning in mind.
 <br>
 <br>
-<h1 align="center"> ✧ Thanks To FantoX001 ✧ </h1>
+<h1 align="center"> ✧ Thanks To alex ✧ </h1>
