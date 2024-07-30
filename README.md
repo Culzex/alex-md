@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/Kai0071">
+   <a href="https://github.com/Culzex">
     <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
 </p>
 
